@@ -1,0 +1,406 @@
+{
+    "code": 0,
+    "message": "成功",
+    "result": [{
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "ffffffffffffff"
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },{
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "ffffffffffffff"
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },{
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "ffffffffffffff"
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    },
+    {
+        "name": "job-01",
+        "starttime": "2017-04-2010: 20: 00",
+        "stoptime": "2017-04-2010: 20: 01",
+        "input": 20000,
+        "output": 20000,
+        "error": 0,
+        "execMode": "远程执行",
+        "execNode": "kettle-slave-8081@10.0.2.215: 8081",
+        "status": "成功",
+        "speed": "1000条/秒",
+        "message": "eeeeeeeeeeeeeeeeee"
+        
+    }
+    ]
+}
